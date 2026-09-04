@@ -1,5 +1,3 @@
-# Olá, Mundo!
+# Hello, word!
 
-a
-
-Primeiro repositório do curso GitHub e Git
+First repository for the Git and GitHub course.
